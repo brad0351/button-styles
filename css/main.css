@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font: normal 100%/1.5 sans-serif;
+  font: normal 100%/1.5 "Open Sans", sans-serif;
 }
 
 *, *::before, *::after {
@@ -32,11 +32,10 @@ div {
   right: 300px;
   bottom: 540px;
   display: inline-block;
-  padding: .5em .75em .4em;
+  padding: .5em .75em .5em;
   border-radius: 8px;
   color: #fff;
   font-family: "Open Sans", sans-serif;
-  font-weight: bold;
   text-decoration: none;
   font-size: 1.125rem
 }
@@ -46,7 +45,7 @@ div {
   right: 300px;
   bottom: 540px;
   display: inline-block;
-  padding: .5em .75em .4em;
+  padding: .5em .75em .5em;
   border-radius: 8px;
   color: #fff;
   font-family: "Open Sans", sans-serif;
@@ -60,7 +59,7 @@ div {
   right: 300px;
   bottom: 540px;
   display: inline-block;
-  padding: .5em .75em .4em;
+  padding: .5em .75em .5em;
   border-radius: 8px;
   color: white;
   font-family: "Open Sans", sans-serif;
@@ -73,7 +72,7 @@ div {
   background-color: #fff;
   border-style: solid;
   color: #000;
-  padding: .5em .75em .4em;
+  padding: .5em .75em .5em;
   font-size: 1.125rem;
 }
 
@@ -81,18 +80,19 @@ div {
   background-color: #f33;
   font-size: 1.125rem;
   font-weight: bold;
-  padding: .5em .75em .4em;
+  padding: .5em .75em .5em;
 }
 
 .btn-pri-small {
   background-color: #333;
   display: inline-block;
-  padding: .4em .75em .3em;
+  padding: .4em .75em .4em;
   border-radius: 8px;
   color: #fff;
   font-family: "Open Sans", sans-serif;
   text-decoration: none;
   font-weight: bold;
+  font-size:.875em;
 }
 
 .btn-sub-small {
@@ -100,25 +100,28 @@ div {
   right: 300px;
   bottom: 540px;
   display: inline-block;
-  padding: .4em .75em .3em;
+  padding: .5em .75em .5em;
   border-radius: 8px;
   color: white;
   font-family: "Open Sans", sans-serif;
   text-decoration: none;
   font-weight: bold;
+  font-size:.875em;
 }
 
 .btn-gho-small {
   background-color: #fff;
   border-style: solid;
   color: #000;
-  padding: .4em .75em .3em;
+  padding: .4em .75em .4em;
+  font-size:.875em;
 }
 
 .btn-warn-small {
   background-color: #f33;
-  padding: .4em .75em .3em;
+  padding: .5em .75em .5em;
   font-weight: bold;
+  font-size:.875em;
 }
 
 .btn-pri-big {
