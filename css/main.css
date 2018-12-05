@@ -7,12 +7,105 @@ html {
   box-sizing: inherit;
 }
 
-
 div {
   padding: .5rem;
   text-align: center;
 }
 
+.btn-primary:hover {
+  right: 300px;
+  bottom: 540px;
+  display: inline-block;
+  padding: .5em .75em .4em;
+  border-radius: 8px;
+  color: #fff;
+  font-family: "Open Sans", sans-serif;
+  text-decoration: none;
+}
+
+.btn-subtle:hover {
+  right: 300px;
+  bottom: 540px;
+  display: inline-block;
+  padding: .5em .75em .4em;
+  border-radius: 8px;
+  color: #fff;
+  font-family: "Open Sans", sans-serif;
+  text-decoration: none;
+}
+
+.btn-ghost:hover {
+  right: 300px;
+  bottom: 540px;
+  display: inline-block;
+  padding: .5em .75em .4em;
+  border-radius: 8px;
+  color: #fff;
+  font-family: "Open Sans", sans-serif;
+  text-decoration: none;
+}
+
+.btn-warning:hover {
+  right: 300px;
+  bottom: 540px;
+  display: inline-block;
+  padding: .5em .75em .4em;
+  border-radius: 8px;
+  color: #fff;
+  font-family: "Open Sans", sans-serif;
+  text-decoration: none;
+}
+
+.btn:hover {
+  right: 300px;
+  bottom: 540px;
+  display: inline-block;
+  padding: .5em .75em .4em;
+  border-radius: 8px;
+  color: #fff;
+  font-family: "Open Sans", sans-serif;
+  text-decoration: none;
+}
+
+.btn {
+  display: inline-block;
+  padding: .5em .75em .4em;
+  border-radius: 8px;
+  text-decoration: none;
+  font-size: 1.125rem;
+}
+
+.btn-small {
+  font-size: .875em;
+}
+
+.btn-big {
+  font-size: 1.5rem;
+}
+
+.btn-primary {
+  background-color: #333;
+}
+
+.btn-subtle {
+  background-color: #ccc;
+  right: 300px;
+  bottom: 540px;
+  color: white;
+}
+
+.btn-ghost {
+  background-color: #fff;
+  border-style: solid;
+  color: #000;
+}
+
+.btn-warning {
+  background-color: #f33;
+  color: #fff;
+}
+
+/*
 .btn:hover {
   background-color: grey;
   right: 300px;
@@ -23,7 +116,6 @@ div {
   color: #fff;
   font-family: "Open Sans", sans-serif;
   text-decoration: none;
-
 
 }
 
@@ -167,3 +259,4 @@ div {
   font-size: 1.5rem;
   font-weight: bold;
 }
+*/
